@@ -1,0 +1,2 @@
+there are some errors that appear in cmd but the program runs normally because i used
+ran the dialog widget on diffrent thread and thats not right 
